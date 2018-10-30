@@ -1,7 +1,12 @@
-Device configuration for XIAOMI MI 4i(ferrari).
+Xiaomi Mi 4i Device tree
 ==================================================
 
-KANGED FROM {ferrari-dev's git)[http://github.com/ferrari-dev]
+Codename : ferrari
+
+
+KANGED FROM (ferrari-dev's git)[http://github.com/ferrari-dev]
+
 For overheat fixing test
+
 
 Credit For thewisenerd at github
